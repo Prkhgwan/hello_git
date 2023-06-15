@@ -1,2 +1,4 @@
 hello git
 second row - firstBranch
+third row - secondBranch
+4th row - secondBranch
